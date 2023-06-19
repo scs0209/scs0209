@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/성창수)
+[![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chaeng_97)
+[![Blog](https://img.shields.io/badge/Blog-ff5722?style=for-the-badge&logo=blogger&logoColor=white)](https://https://web-myblog-p8xrq2mlfsc6kg2.sel3.cloudtype.app/)
 
 <!--
 **scs0209/scs0209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
