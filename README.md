@@ -9,6 +9,7 @@ I have build a blog useing React and a portfolio site using Next, so feel free t
 
 I enjoy playing table tennis and working out at the gym.<br>
 I hope to create services that will be helpful and valuable to people.
+I enjoy
 
 ### 👍 Skills
 
