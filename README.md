@@ -24,7 +24,6 @@ I hope to create services that will be helpful and valuable to people.
 
 #### Environment
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-df
 <!--
 **scs0209/scs0209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
