@@ -27,8 +27,10 @@ I enjoy
 #### Environment
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-![Changsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=scs0209&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scs0209&layout=compact)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=scs0209&include_all_commits=true&show_icons=true&theme=dark" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scs0209&layout=compact&theme=dark" height="195" />
+</p>
 <!--
 **scs0209/scs0209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
